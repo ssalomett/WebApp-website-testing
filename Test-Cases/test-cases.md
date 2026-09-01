@@ -230,7 +230,7 @@ PASS
 
 ## TC-006 - Facebook-ის აიქონის ფუნქციონალის შემოწმება
 
-** Scenario ID: TS-002
+**Scenario ID:** TS-002
 
 **ტესტირების ტიპი:** ფუნქციონალური ტესტირება (Functional Testing)
 
@@ -266,7 +266,7 @@ FAIL
 
 ## TC-007 - Instagram-ის აიქონის ფუნქციონალის შემოწმება
 
-** Scenario ID: TS-002
+**Scenario ID:** TS-002
 
 **ტესტირების ტიპი:** ფუნქციონალური ტესტირება (Functional Testing)
 
@@ -302,7 +302,7 @@ FAIL
 
 ## TC-008 - LinkedIn-ის აიქონის ფუნქციონალის შემოწმება
 
-** Scenario ID: TS-002
+**Scenario ID:** TS-002
 
 **ტესტირების ტიპი:** ფუნქციონალური ტესტირება (Functional Testing)
 
@@ -338,7 +338,7 @@ FAIL
 
 ## TC-009 - Twitter-ის აიქონის ფუნქციონალის შემოწმება
 
-** Scenario ID: TS-002
+**Scenario ID:** TS-002
 
 **ტესტირების ტიპი:** ფუნქციონალური ტესტირება (Functional Testing)
 
@@ -374,7 +374,7 @@ FAIL
 
 ## TC-10 - ველების ვალიდაციის Cross-browser შემოწმება
 
-** Scenario ID:** TS - 003
+**Scenario ID:** TS - 003
 
 **ტესტირების ტიპი:** Cross-browser Testing
 
